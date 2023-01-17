@@ -3647,7 +3647,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 
 .menu-item:hover > .menu-link,
 .menu-item.current > .menu-link {
-	color: #B40C26;
+	color: black;
 }
 
 .menu-item.sub-menu > .menu-link > div { }
